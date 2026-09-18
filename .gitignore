@@ -23,7 +23,6 @@ env/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -90,3 +89,4 @@ scratch/
 # Local tool configuration
 .codex/
 .serena/
+config.bat
